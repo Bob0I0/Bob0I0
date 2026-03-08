@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/668d141d8896c6f50b1014e4?variant=dark" alt="roadmap.sh"/></a>
 <!--
 **Bob0I0/Bob0I0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
